@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This is an Active Workspace CAD integration launch file.
+It is intended to be opened by a Teamcenter CAD integration which has been
+installed and has registered to handle the corresponding MIME type.
+ -->
+<AWCADXML version="1.1">
+<Integration_MIME_Type>application/ipemtcxml</Integration_MIME_Type>
+<HostPath>https://plmrly.sonacomstar.com:3000/tc/</HostPath>
+<Server_Version>V2412.0009.2025110100</Server_Version>
+<Protocol>https</Protocol>
+<SelectedObject type="ER4_red_partRevision" uid="kkjJUS1LJMpiTA"></SelectedObject>
+</AWCADXML>
